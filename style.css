@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+body {
+    background-color: #A8981D;
+    font-family: fantasy;
+}
+
+h1 {
+    color: #ECD528;
+}
+
+.destaque {
+    color: #F5DC29;
+    background-color: #fff;
+}
+.aprendendo {
+    color: black;
+}
+
+h1#principal {
+    color: #F5DC29;
+    font-family: cursive;
+    text-align: center;
+}
+
+h2 {
+    color: #645B11;
+}
